@@ -7,7 +7,7 @@ namespace CameraSystem {
     float lerp(float a, float b, float t) {
         return a + (b - a) * t;
     }
-
+ 
     void init(CameraState& cam) {
         cam.x = 0; cam.y = 0;
         cam.zoom = 1.0f;

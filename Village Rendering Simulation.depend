@@ -1066,11 +1066,13 @@
 	<cmath>
 	<vector>
 
-1771048316 source:e:\project code\personal project code\c,c++\village rendering simulation\analytics.cpp
+1771049148 source:e:\project code\personal project code\c,c++\village rendering simulation\analytics.cpp
 	"Analytics.h"
 	<GL/glut.h>
 	<cstdio>
 	<string>
+	<vector>
+	"Utils.h"
 
 1771048981 source:e:\project code\personal project code\c,c++\village rendering simulation\events.cpp
 	"Events.h"
